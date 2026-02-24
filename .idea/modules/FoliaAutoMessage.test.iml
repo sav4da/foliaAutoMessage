@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="FoliaAutoMessage:test" external.linked.project.path="$MODULE_DIR$/../../FoliaAutoMessage" external.root.project.path="$MODULE_DIR$/../../FoliaAutoMessage" external.system.id="GRADLE" external.system.module.group="io.github.sav4da" external.system.module.type="sourceSet" external.system.module.version="0.1.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../FoliaAutoMessage/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../FoliaAutoMessage/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../FoliaAutoMessage/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FoliaAutoMessage/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="FoliaAutoMessage.main" />
+  </component>
+  <component name="TestModuleProperties" production-module="FoliaAutoMessage.main" />
+</module>

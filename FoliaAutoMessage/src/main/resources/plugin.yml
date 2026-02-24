@@ -1,0 +1,7 @@
+name: FoliaAutoMessage
+version: '${version}'
+main: io.github.sav4da.foliaautomessage.AutoMessagePlugin
+api-version: '1.21.4'
+folia-supported: true
+description: Folia-safe auto message plugin
+author: sav4da
